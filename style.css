@@ -1,0 +1,398 @@
+/*
+Theme Name: PreGel Latin America
+Description: Child theme for Latin America - Parent PreGel Master
+Author: PreGel America
+Template: pregel
+*/
+
+/* custom css */
+#menu-main-left-1 {
+	float: left;
+}
+#location-links .row {
+	margin-top: 10px;
+}
+#top-bar-menu a {
+	font-size: 1.25rem;
+}
+#titlebar .widgettitle {
+	display: none;
+}
+/*#menu-main-left {
+    padding-left: 6rem !important;
+}*/
+/*#menu-item-1542 span {
+	font-size: .75rem;
+}*/
+.page-id-25 .parrallax {
+	background-image: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/ITC-Parrallax.jpg');
+}
+#pg-about-banner {
+	background-size: auto;
+}
+#pg-about-banner-container {
+	background: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/WhiteBackground.jpg');
+	background-repeat: repeat-x;
+	background-position: center center;
+}
+#widget_sp_image-5 .pg-caption .pg-text-overlay img {
+	width: 200px;
+	max-width: 200px;
+	min-width: 200px;
+	height: auto;
+}
+#product-bar .link {
+	position: relative;
+	height: 175px;
+}
+.footer #subsidiaries-row {
+	height: 100px; 
+}
+#global-button {
+	display: block;
+}
+@media (max-width: 1200px) {
+	#product-bar .link {
+		height: 150px;
+	}
+}
+@media (max-width: 1200px) {
+	#top-bar-menu a {
+		font-size: 1rem;
+	}
+	.footer #subsidiaries-row {
+		height: 120px;
+	}
+}
+@media (max-width: 540px) {
+	#product-bar .link {
+		height: 100px;
+	}
+}
+.top-bar input {
+	width: 60%;
+}
+#search-3 .search-field {
+	float: left;
+	height: 36px;
+	width: 80%;
+}
+#search-3 .search-submit {
+	float: left;
+	height: 36px;
+}
+span.screen-reader-text {
+	display: none;
+}
+.pg-text-overlay img {
+	min-width: 0;
+}
+#sidebar-help {
+	padding: 1rem;
+}
+.page-template-template-about-main .parrallax {
+	background-image: url('/wp-content/themes/pregel-hungary/assets/images/PreGel-Italy.jpg');
+} 
+.page-template-template-about-main #pg-about-banner {
+	background-image: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/ABOUT_main_HeaderISO.png');
+}
+.page-id-8 #pg-about-banner-container {
+	display: none;
+}
+.page-id-10 #pg-about-banner-container {
+	display: none;
+}
+.page-id-12 #pg-about-banner-container {
+	display: none;
+}
+.page-id-20 #pg-about-banner-container {
+	display: none;
+}
+.page-id-22 #pg-about-banner-container {
+	display: none;
+}
+.page-id-24 #pg-about-banner-container {
+	display: none;
+}
+.page-id-25 #pg-about-banner-container {
+	display: none;
+}
+.page-id-28 #pg-about-banner-container {
+	display: none;
+}
+.page-id-26 #pg-about-banner-container {
+	display: none;
+}
+.page-id-30 #pg-about-banner-container {
+	display: none;
+}
+.page-id-32 #pg-about-banner-container {
+	display: none;
+}
+.page-id-34 #pg-about-banner-container {
+	display: none;
+}
+.page-id-1545 #pg-about-banner {
+	background-image: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/ABOUT_main_HeaderISO.png');
+}
+.page-id-1551 #pg-about-banner {
+	background-image: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/ABOUT_main_HeaderISO.png');
+}
+.page-id-1532 #pg-about-banner {
+	background-image: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/ABOUTUS_AroundWorld_HeaderISO.png');
+}
+.page-id-1617 #pg-about-banner {
+	background-image: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/ABOUTUS_AroundWorld_HeaderISO.png');
+}
+.page-id-1706 #pg-about-banner {
+	background-image: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/TRAINING_HeaderISO.png');
+}
+.page-id-1534 #pg-about-banner {
+	background-image: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/SERVICES_CUSTOMERSUPPORT_HeaderISO.png');
+}
+.page-id-70 #pg-about-banner {
+	background-image: url('https://pregel3.com/wp-content/themes/pregel-latin-am/assets/images/SUBSIDIARIES_HeaderISO.png');
+}
+#pg-about-testimonial {
+	min-height: 275px;
+}
+.search-no-results #main {
+	height: 500px;
+}
+#pg-testimonial-container {
+	width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    border: #6ba0d3 solid 2px;	
+}
+.pg-circle-image  {
+	display: inline;
+	margin: 0 auto;
+	height: auto;
+	width: auto;					
+}
+.text-global {
+	font-size: 1.25em;
+	margin: .3em auto;
+}
+#bottom-footer #footer-contact-info p {
+	border-right: none !important;
+}
+#bottom-footer #footer-contact-info {
+	font-weight: 700;
+}
+#bottom-footer #copyright {
+	font-weight: 700;
+	}
+#pregel-el-mundo-links {
+	margin: 1em auto;
+}
+/*Home page slider*/
+.slide-head h2 {
+	text-shadow: 0px 4px 11px rgba(0, 0, 0, 0.55);
+}
+@media only screen and (max-width: 64em){
+	.slide-head h2 {
+		font-size: 36px;
+		text-shadow: 0px 4px 11px rgba(0, 0, 0, 0.55);
+	}
+}
+ul.footer-social li {
+	padding: 0 10px;
+}
+#bottom-footer a {
+	color: #fff;
+	text-decoration: underline;
+}
+@media (max-width: 1300px) {
+	#menu-main-left {
+    	padding-left: 3rem !important;
+	}	
+}
+@media (max-width: 1024px) {
+	#product-bar h3 {
+	    font-size: 3rem;
+	}
+}
+
+/*********************
+TESTING FLAVOR FLIP CARDS
+*********************/
+.flavor-card-container {
+
+}
+.flip-card {
+	height: 45vh;
+	position: relative;	
+}
+.flip-card-front {
+	height: 45vh;
+}
+.flip-card-back { 
+    position: absolute;
+    height: 45vh;
+    width: 100%;
+    background: white;
+    color: #05c3de;
+    border: 5px #05c3de solid;
+    opacity:0;
+    transition:1s;
+}
+.flip-card:hover .flip-card-back  {
+    opacity:1;
+}
+#flavor-title {
+	height: 10vh;
+	font-size: 1.5rem;
+}
+.flip-card-back-text-container {
+	padding: .5rem;
+}
+.flip-card-back-title {
+	
+}
+.flip-card-back-text {
+	
+	
+}
+.productos-card-list {
+	
+}
+@media (max-width: 700px) {
+	.flip-card {
+	height: 50vh;
+}
+.flip-card-front {
+	height: 50vh;
+}
+.flip-card-back {
+	height: 50vh;
+}
+#flavor-title {
+	font-size: 1.25rem;
+}
+}
+@media (max-width: 615px) {
+	.flip-card {
+	height: 60vh;
+}
+.flip-card-front {
+	height: 60vh;
+}
+.flip-card-back {
+	height: 60vh;
+}
+}
+@media (max-width: 550px) {
+	.flip-card {
+	height: 65vh;
+}
+.flip-card-front {
+	height: 65vh;
+}
+.flip-card-back {
+	height: 65vh;
+}
+}
+@media (max-width: 400px) {
+	.flip-card {
+	height: 100vh;
+	position: relative;	
+}
+.flip-card-front {
+	height: 100vh;
+}
+.flip-card .flip-card-back { 
+    position: absolute;
+    height: 100vh;
+}
+}
+/*********************
+TESTING LATIN AM MAP
+*********************/
+
+.pg-sub {
+  fill:#00BDDF;fill-opacity:1;stroke:#ffffff;stroke-opacity:1
+}
+.pg-distro {
+  fill:#9EC7E1;fill-opacity:1;stroke:#ffffff;stroke-opacity:1
+}
+.pg-none {
+  fill:#cccccc;fill-opacity:1;stroke:#ffffff;stroke-opacity:1
+}
+.lakes {
+  fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1
+}
+
+#info-box {
+  display: none;
+  position: absolute;
+  z-index: 10;
+  background-color: #ffffff;
+  border: 2px solid #05c3de;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: "futura-pt", sans-serif;
+}
+.latam-map-container {
+  width: 100%;
+  height: 80vh;
+  position: relative;
+}
+#latam-map-svg {
+  position: absolute;
+}
+
+#mini-map {
+	display: none;
+}
+@media (max-width: 1024px) {
+	#mini-map {
+	    display: inline;
+    }
+    #latam-map-svg {
+    	display: none;
+    }
+}
+#encuentrenos-central-am{
+  background-color: #eeeeee;
+}
+#pg-about-section-three {
+}
+.distro-card {
+  
+}
+.encuentrenos-button {
+  color: #05c3de;
+  font-size: 2rem; 
+}
+
+#dr-content{display:none;}
+#dr-info{display:none;}
+
+#guatemala-content{display:none;}
+#guatemala-info{display:none;}
+
+#cr-content{display:none;}
+#cr-info{display:none;}
+
+#panama-content{display:none;}
+#panama-info{display:none;}
+
+#bolivia-content{display:none;}
+#bolivia-info{display:none;}
+
+/*#argentia-content{display:none;}
+#argentia-info{display:none;}*/
+
+#paraguay-content{display:none;}
+#paraguay-info{display:none;}
+
+#op-content{display:none;}
+#op-info{display:none;}
